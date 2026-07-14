@@ -53,3 +53,7 @@ AS215428
 # https://nightingalerussia.com/?p=318
 AS210546
 AS43298
+
+# Advin (AS206216)
+# Gives 0 shit about hosting 100's of ips running exploits for months
+AS206216
