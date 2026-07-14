@@ -61,3 +61,7 @@ AS206216
 # Bullet Group LTD
 # Hosting company without any website
 AS215762
+
+# Hostodo
+# Gives 0 shit about hosting 100's of ips running exploits for months
+AS399804
