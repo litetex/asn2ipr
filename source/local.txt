@@ -65,3 +65,10 @@ AS215762
 # Hostodo
 # Gives 0 shit about hosting 100's of ips running exploits for months
 AS399804
+
+# Hydra Communications
+# Mass MCP requests from "INFRAWATCH"
+# AS Registered on 2002-10-28
+# Company created on 2011-09-20 by 2x 15 year old English students with non-existing addresses?
+# There is 0 chance that this company is legit
+AS25369
