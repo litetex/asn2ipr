@@ -77,3 +77,8 @@ AS25369
 # sitting in Panama while IPs are in Switzerland
 # has no website, IPs rotate very fast
 AS264617
+
+# Zkillu SAS
+# Gives 0 shit about hosting 100's of ips running exploits for months
+# SRC: 2a0c:b641:b0:a1a1:21c4::1
+AS215599
